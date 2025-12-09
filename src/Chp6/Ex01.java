@@ -34,7 +34,7 @@ class MyPoint {
     }
 }
 
-public class Ex1 {
+public class Ex01 {
     public static void main(String[] args) {
         MyPoint p = new MyPoint(3, 50);
         MyPoint q = new MyPoint(3, 50);
